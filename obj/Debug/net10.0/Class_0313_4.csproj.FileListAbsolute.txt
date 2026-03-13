@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\week02\Class_0313_1\Class_0313_4\bin\Debug\net10.0\Class_0313_4.exe
+C:\Users\Administrator\Desktop\week02\Class_0313_1\Class_0313_4\bin\Debug\net10.0\Class_0313_4.deps.json
+C:\Users\Administrator\Desktop\week02\Class_0313_1\Class_0313_4\bin\Debug\net10.0\Class_0313_4.runtimeconfig.json
+C:\Users\Administrator\Desktop\week02\Class_0313_1\Class_0313_4\bin\Debug\net10.0\Class_0313_4.dll
+C:\Users\Administrator\Desktop\week02\Class_0313_1\Class_0313_4\bin\Debug\net10.0\Class_0313_4.pdb
+C:\Users\Administrator\Desktop\week02\Class_0313_1\Class_0313_4\obj\Debug\net10.0\Class_0313_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\week02\Class_0313_1\Class_0313_4\obj\Debug\net10.0\Class_0313_4.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\week02\Class_0313_1\Class_0313_4\obj\Debug\net10.0\Class_0313_4.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\week02\Class_0313_1\Class_0313_4\obj\Debug\net10.0\Class_0313_4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\week02\Class_0313_1\Class_0313_4\obj\Debug\net10.0\Class_0313_4.dll
+C:\Users\Administrator\Desktop\week02\Class_0313_1\Class_0313_4\obj\Debug\net10.0\refint\Class_0313_4.dll
+C:\Users\Administrator\Desktop\week02\Class_0313_1\Class_0313_4\obj\Debug\net10.0\Class_0313_4.pdb
+C:\Users\Administrator\Desktop\week02\Class_0313_1\Class_0313_4\obj\Debug\net10.0\Class_0313_4.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\week02\Class_0313_1\Class_0313_4\obj\Debug\net10.0\ref\Class_0313_4.dll
